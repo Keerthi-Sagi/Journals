@@ -1,2 +1,15 @@
-2026/02/26-12:58:49.564 1228b Creating DB /Users/keerthisagi/Documents/Journals/MIS Quarterly/chrome_profile_misq/Default/Session Storage since it was missing.
-2026/02/26-12:58:49.568 1228b Reusing MANIFEST /Users/keerthisagi/Documents/Journals/MIS Quarterly/chrome_profile_misq/Default/Session Storage/MANIFEST-000001
+2026/02/26-15:49:15.475 22c0 Reusing MANIFEST c:\Users\t276m996\Downloads\Journals_data\Journals_data\InformationSystems\MIS Quarterly\chrome_profile_misq\Default\Session Storage/MANIFEST-000001
+2026/02/26-15:49:15.479 22c0 Recovering log #14
+2026/02/26-15:49:15.488 22c0 Reusing old log c:\Users\t276m996\Downloads\Journals_data\Journals_data\InformationSystems\MIS Quarterly\chrome_profile_misq\Default\Session Storage/000014.log 
+2026/02/26-16:08:19.363 22c0 Level-0 table #18: started
+2026/02/26-16:08:19.370 22c0 Level-0 table #18: 30196 bytes OK
+2026/02/26-16:08:19.373 22c0 Delete type=0 #14
+2026/02/26-16:08:19.377 22c0 Compacting 4@0 + 1@1 files
+2026/02/26-16:08:19.385 22c0 Generated table #19@0: 29 keys, 3652 bytes
+2026/02/26-16:08:19.385 22c0 Compacted 4@0 + 1@1 files => 3652 bytes
+2026/02/26-16:08:19.387 22c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/26-16:08:19.388 22c0 Delete type=2 #7
+2026/02/26-16:08:19.388 22c0 Delete type=2 #10
+2026/02/26-16:08:19.388 22c0 Delete type=2 #13
+2026/02/26-16:08:19.389 22c0 Delete type=2 #15
+2026/02/26-16:08:19.389 22c0 Delete type=2 #18

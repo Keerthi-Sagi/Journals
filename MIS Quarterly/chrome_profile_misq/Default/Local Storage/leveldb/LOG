@@ -1,2 +1,3 @@
-2026/02/26-12:58:49.513 1228b Creating DB /Users/keerthisagi/Documents/Journals/MIS Quarterly/chrome_profile_misq/Default/Local Storage/leveldb since it was missing.
-2026/02/26-12:58:49.517 1228b Reusing MANIFEST /Users/keerthisagi/Documents/Journals/MIS Quarterly/chrome_profile_misq/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/26-15:49:15.468 10b0 Reusing MANIFEST c:\Users\t276m996\Downloads\Journals_data\Journals_data\InformationSystems\MIS Quarterly\chrome_profile_misq\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/26-15:49:15.480 10b0 Recovering log #3
+2026/02/26-15:49:15.491 10b0 Reusing old log c:\Users\t276m996\Downloads\Journals_data\Journals_data\InformationSystems\MIS Quarterly\chrome_profile_misq\Default\Local Storage\leveldb/000003.log 
