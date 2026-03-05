@@ -1,0 +1,1682 @@
+{
+"ruoyu wang||university of new south wales, sydney, australia": {
+"Standardized_Author": "Ruoyu Wang",
+"University": "University of New South Wales",
+"Department": "",
+"State": "New South Wales",
+"Country": "Australia",
+"Pincode": ""
+},
+"raymond wong||university of new south wales, sydney, australia": {
+"Standardized_Author": "Raymond Wong",
+"University": "University of New South Wales",
+"Department": "",
+"State": "New South Wales",
+"Country": "Australia",
+"Pincode": ""
+},
+"daniel sun||newcastle university, tyne and wear, england, united kingdom": {
+"Standardized_Author": "Daniel Sun",
+"University": "Newcastle University",
+"Department": "",
+"State": "Tyne and Wear",
+"Country": "United Kingdom",
+"Pincode": ""
+},
+"giuseppe destefanis||university college london, london, uk": {
+"Standardized_Author": "Giuseppe Destefanis",
+"University": "University College London",
+"Department": "",
+"State": "London",
+"Country": "United Kingdom",
+"Pincode": ""
+},
+"jiahua xu||university college london, london, uk": {
+"Standardized_Author": "Jiahua Xu",
+"University": "University College London",
+"Department": "",
+"State": "London",
+"Country": "United Kingdom",
+"Pincode": ""
+},
+"silvia bartolucci||university college london, london, uk": {
+"Standardized_Author": "Silvia Bartolucci",
+"University": "University College London",
+"Department": "",
+"State": "London",
+"Country": "United Kingdom",
+"Pincode": ""
+},
+"ruijia guo||harbin engineering university, 145 nantong street, nangang district, harbin, heilongjiang 150001, china": {
+"Standardized_Author": "Ruijia Guo",
+"University": "Harbin Engineering University",
+"Department": "",
+"State": "Heilongjiang",
+"Country": "China",
+"Pincode": "150001"
+},
+"zhiyuan chen||harbin engineering university, 145 nantong street, nangang district, harbin, heilongjiang 150001, china": {
+"Standardized_Author": "Zhiyuan Chen",
+"University": "Harbin Engineering University",
+"Department": "",
+"State": "Heilongjiang",
+"Country": "China",
+"Pincode": "150001"
+},
+"farshad firouzi||arizona state university, united states": {
+"Standardized_Author": "Farshad Firouzi",
+"University": "Arizona State University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"bahar farahani||department of information technology management, shahid beheshti university, tehran, iran": {
+"Standardized_Author": "Bahar Farahani",
+"University": "Shahid Beheshti University",
+"Department": "Department of Information Technology Management",
+"State": "Tehran",
+"Country": "Iran",
+"Pincode": ""
+},
+"alexander marinek||ku leuven, belgium": {
+"Standardized_Author": "Alexander Marinek",
+"University": "KU Leuven",
+"Department": "",
+"State": "",
+"Country": "Belgium",
+"Pincode": ""
+},
+"linh thao ly||berlin school of economics and law, department of public administration, berlin, germany": {
+"Standardized_Author": "Linh Thao Ly",
+"University": "Berlin School of Economics and Law",
+"Department": "Department of Public Administration",
+"State": "Berlin",
+"Country": "Germany",
+"Pincode": ""
+},
+"fabrizio maria maggi||free university of bozen-bolzano, italy": {
+"Standardized_Author": "Fabrizio Maria Maggi",
+"University": "Free University of Bozen-Bolzano",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"marco montali||free university of bozen-bolzano, italy": {
+"Standardized_Author": "Marco Montali",
+"University": "Free University of Bozen-Bolzano",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"stefanie rinderlema||technical university of munich, tum school of computation, information and technology, department of informatics, germany": {
+"Standardized_Author": "Stefanie Rinderlema",
+"University": "Technical University of Munich",
+"Department": "Department of Informatics",
+"State": "Bavaria",
+"Country": "Germany",
+"Pincode": ""
+},
+"wil mp van der aalst||chair of process and data science, rwth aachen university, aachen, germany": {
+"Standardized_Author": "Wil Mp Van Der Aalst",
+"University": "RWTH Aachen University",
+"Department": "Chair of Process and Data Science",
+"State": "North Rhine-Westphalia",
+"Country": "Germany",
+"Pincode": ""
+},
+"kiran busch||kühne logistics university, hamburg, germany": {
+"Standardized_Author": "Kiran Busch",
+"University": "Kühne Logistics University",
+"Department": "",
+"State": "Hamburg",
+"Country": "Germany",
+"Pincode": ""
+},
+"henrik leopold||kühne logistics university, hamburg, germany": {
+"Standardized_Author": "Henrik Leopold",
+"University": "Kühne Logistics University",
+"Department": "",
+"State": "Hamburg",
+"Country": "Germany",
+"Pincode": ""
+},
+"anna dalla vecchia||computer science department, university of verona, italy": {
+"Standardized_Author": "Anna Dalla Vecchia",
+"University": "University of Verona",
+"Department": "Computer Science Department",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"niccol marastoni||computer science department, university of verona, italy": {
+"Standardized_Author": "Niccol Marastoni",
+"University": "University of Verona",
+"Department": "Computer Science Department",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"barbara oliboni||computer science department, university of verona, italy": {
+"Standardized_Author": "Barbara Oliboni",
+"University": "University of Verona",
+"Department": "Computer Science Department",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"elisa quintarelli||computer science department, university of verona, italy": {
+"Standardized_Author": "Elisa Quintarelli",
+"University": "University of Verona",
+"Department": "Computer Science Department",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"jingwen cai||department of computing science, umeå university, umeå, 90187, sweden": {
+"Standardized_Author": "Jingwen Cai",
+"University": "Umeå University",
+"Department": "Department of Computing Science",
+"State": "Västerbotten",
+"Country": "Sweden",
+"Pincode": "90187"
+},
+"sara leckner||department of computer science and media technology, malmö university, malmö, 20506, sweden": {
+"Standardized_Author": "Sara Leckner",
+"University": "Malmö University",
+"Department": "Department of Computer Science and Media Technology",
+"State": "Skåne",
+"Country": "Sweden",
+"Pincode": "20506"
+},
+"johanna bjrklund||department of computing science, umeå university, umeå, 90187, sweden": {
+"Standardized_Author": "Johanna Bjrklund",
+"University": "Umeå University",
+"Department": "Department of Computing Science",
+"State": "Västerbotten",
+"Country": "Sweden",
+"Pincode": "90187"
+},
+"ariba siddiqui||fraunhofer institute for applied information technology fit, data science and artificial intelligence, germany": {
+"Standardized_Author": "Ariba Siddiqui",
+"University": "Fraunhofer Institute for Applied Information Technology FIT",
+"Department": "Data Science and Artificial Intelligence",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"francesca zerbato||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Francesca Zerbato",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"daniel schuster||fraunhofer institute for applied information technology fit, data science and artificial intelligence, germany": {
+"Standardized_Author": "Daniel Schuster",
+"University": "Fraunhofer Institute for Applied Information Technology FIT",
+"Department": "Data Science and Artificial Intelligence",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"juliana barbosa||new york university, united states": {
+"Standardized_Author": "Juliana Barbosa",
+"University": "New York University",
+"Department": "",
+"State": "New York",
+"Country": "United States",
+"Pincode": ""
+},
+"eduarda alencar||new york university, united states": {
+"Standardized_Author": "Eduarda Alencar",
+"University": "New York University",
+"Department": "",
+"State": "New York",
+"Country": "United States",
+"Pincode": ""
+},
+"grace fan||new york university, united states": {
+"Standardized_Author": "Grace Fan",
+"University": "New York University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"acio santos||new york university, united states": {
+"Standardized_Author": "Acio Santos",
+"University": "New York University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"juliana freire||new york university, united states": {
+"Standardized_Author": "Juliana Freire",
+"University": "New York University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"jie jeff xu||georgia institute of technology, atlanta, 30324, ga, usa": {
+"Standardized_Author": "Jie Jeff Xu",
+"University": "Georgia Institute of Technology",
+"Department": "",
+"State": "GA",
+"Country": "United States",
+"Pincode": "30324"
+},
+"saahir dhanani||georgia institute of technology, atlanta, 30324, ga, usa": {
+"Standardized_Author": "Saahir Dhanani",
+"University": "Georgia Institute of Technology",
+"Department": "",
+"State": "GA",
+"Country": "United States",
+"Pincode": "30324"
+},
+"jorge piazentin ono||bosch center for artificial intelligence (bcai), bosch research north america, sunnyvale, 94085, ca, usa": {
+"Standardized_Author": "Jorge Piazentin Ono",
+"University": "Bosch Center for Artificial Intelligence",
+"Department": "",
+"State": "CA",
+"Country": "United States",
+"Pincode": "94085"
+},
+"wenbin he||bosch center for artificial intelligence (bcai), bosch research north america, sunnyvale, 94085, ca, usa": {
+"Standardized_Author": "Wenbin He",
+"University": "Bosch Center for Artificial Intelligence",
+"Department": "",
+"State": "CA",
+"Country": "United States",
+"Pincode": "94085"
+},
+"liu ren||bosch center for artificial intelligence (bcai), bosch research north america, sunnyvale, 94085, ca, usa": {
+"Standardized_Author": "Liu Ren",
+"University": "Bosch Center for Artificial Intelligence",
+"Department": "",
+"State": "CA",
+"Country": "United States",
+"Pincode": "94085"
+},
+"kexin rong||georgia institute of technology, atlanta, 30324, ga, usa": {
+"Standardized_Author": "Kexin Rong",
+"University": "Georgia Institute of Technology",
+"Department": "",
+"State": "GA",
+"Country": "United States",
+"Pincode": "30324"
+},
+"graziano blasilli||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Graziano Blasilli",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"lauren s ferro||the university of melbourne, melbourne, victoria, 3010, australia": {
+"Standardized_Author": "Lauren S Ferro",
+"University": "The University of Melbourne",
+"Department": "",
+"State": "Victoria",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"simone lenti||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Simone Lenti",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"fabrizio maria maggi||free university of bozen-bolzano, bolzano, italy": {
+"Standardized_Author": "Fabrizio Maria Maggi",
+"University": "Free University of Bozen-Bolzano",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"andrea marrella||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Andrea Marrella",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"tiziana catarci||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Tiziana Catarci",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"clemens schreiber||karlsruhe institute of technology, germany": {
+"Standardized_Author": "Clemens Schreiber",
+"University": "Karlsruhe Institute of Technology",
+"Department": "",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"amine abbadandaloussi||university of st. gallen, st. gallen, switzerland": {
+"Standardized_Author": "Amine Abbadandaloussi",
+"University": "University of St. Gallen",
+"Department": "",
+"State": "St. Gallen",
+"Country": "Switzerland",
+"Pincode": ""
+},
+"andrea burattin||technical university of denmark, denmark": {
+"Standardized_Author": "Andrea Burattin",
+"University": "Technical University of Denmark",
+"Department": "",
+"State": "Denmark",
+"Country": "",
+"Pincode": ""
+},
+"andreas oberweis||karlsruhe institute of technology, germany": {
+"Standardized_Author": "Andreas Oberweis",
+"University": "Karlsruhe Institute of Technology",
+"Department": "",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"barbara weber||university of st. gallen, st. gallen, switzerland": {
+"Standardized_Author": "Barbara Weber",
+"University": "University of St. Gallen",
+"Department": "",
+"State": "St. Gallen",
+"Country": "Switzerland",
+"Pincode": ""
+},
+"priscylla silva||university of são paulo, são carlos, são paulo brazil": {
+"Standardized_Author": "Priscylla Silva",
+"University": "University of São Paulo",
+"Department": "",
+"State": "São Paulo",
+"Country": "Brazil",
+"Pincode": ""
+},
+"evandro ortigossa||university of são paulo, são carlos, são paulo brazil": {
+"Standardized_Author": "Evandro Ortigossa",
+"University": "University of São Paulo",
+"Department": "",
+"State": "São Paulo",
+"Country": "Brazil",
+"Pincode": ""
+},
+"dishita turakhia||nyu tandon, new york city, united states": {
+"Standardized_Author": "Dishita Turakhia",
+"University": "New York University Tandon School of Engineering",
+"Department": "",
+"State": "New York",
+"Country": "United States",
+"Pincode": ""
+},
+"claudio silva||nyu tandon, new york city, united states": {
+"Standardized_Author": "Claudio Silva",
+"University": "New York University Tandon School of Engineering",
+"Department": "",
+"State": "New York",
+"Country": "United States",
+"Pincode": ""
+},
+"luis gustavo nonato||university of são paulo, são carlos, são paulo brazil": {
+"Standardized_Author": "Luis Gustavo Nonato",
+"University": "University of São Paulo",
+"Department": "",
+"State": "São Paulo",
+"Country": "Brazil",
+"Pincode": ""
+},
+"dimitrios karapiperis||international hellenic university, greece": {
+"Standardized_Author": "Dimitrios Karapiperis",
+"University": "International Hellenic University",
+"Department": "",
+"State": "",
+"Country": "Greece",
+"Pincode": ""
+},
+"christos tjortjis||international hellenic university, greece": {
+"Standardized_Author": "Christos Tjortjis",
+"University": "International Hellenic University",
+"Department": "",
+"State": "",
+"Country": "Greece",
+"Pincode": ""
+},
+"vassilios s verykios||hellenic open university, greece": {
+"Standardized_Author": "Vassilios S Verykios",
+"University": "Hellenic Open University",
+"Department": "",
+"State": "",
+"Country": "Greece",
+"Pincode": ""
+},
+"tim baccaert||vrije universiteit brussel, pleinlaan 2, 1050 brussels, belgium": {
+"Standardized_Author": "Tim Baccaert",
+"University": "Vrije Universiteit Brussel",
+"Department": "",
+"State": "",
+"Country": "Belgium",
+"Pincode": "1050"
+},
+"bas ketsman||vrije universiteit brussel, pleinlaan 2, 1050 brussels, belgium": {
+"Standardized_Author": "Bas Ketsman",
+"University": "Vrije Universiteit Brussel",
+"Department": "",
+"State": "",
+"Country": "Belgium",
+"Pincode": "1050"
+},
+"anna fariha||university of utah, salt lake city, ut, usa": {
+"Standardized_Author": "Anna Fariha",
+"University": "University of Utah",
+"Department": "",
+"State": "UT",
+"Country": "United States",
+"Pincode": ""
+},
+"lucy cousins||liberty mutual insurance, boston, ma, usa": {
+"Standardized_Author": "Lucy Cousins",
+"University": "Liberty Mutual Insurance",
+"Department": "",
+"State": "MA",
+"Country": "United States",
+"Pincode": ""
+},
+"narges mahyar||university of massachusetts, amherst, ma, usa": {
+"Standardized_Author": "Narges Mahyar",
+"University": "University of Massachusetts",
+"Department": "",
+"State": "MA",
+"Country": "United States",
+"Pincode": ""
+},
+"alexandra meliou||university of massachusetts, amherst, ma, usa": {
+"Standardized_Author": "Alexandra Meliou",
+"University": "University of Massachusetts",
+"Department": "",
+"State": "MA",
+"Country": "United States",
+"Pincode": ""
+},
+"zaher joukhadar||the university of melbourne, grattan street, parkville, 3010, victoria, australia": {
+"Standardized_Author": "Zaher Joukhadar",
+"University": "The University of Melbourne",
+"Department": "",
+"State": "Victoria",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"hanxun huang||the university of melbourne, grattan street, parkville, 3010, victoria, australia": {
+"Standardized_Author": "Hanxun Huang",
+"University": "The University of Melbourne",
+"Department": "",
+"State": "Victoria",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"sarah monazam erfani||the university of melbourne, grattan street, parkville, 3010, victoria, australia": {
+"Standardized_Author": "Sarah Monazam Erfani",
+"University": "The University of Melbourne",
+"Department": "",
+"State": "Victoria",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"ricardo jgb campello||university of southern denmark, campusvej 55, odense, 5220, denmark": {
+"Standardized_Author": "Ricardo Jgb Campello",
+"University": "University of Southern Denmark",
+"Department": "",
+"State": "",
+"Country": "Denmark",
+"Pincode": "5220"
+},
+"michael e houle||new jersey institute of technology, newark, nj 07102, usa": {
+"Standardized_Author": "Michael E Houle",
+"University": "New Jersey Institute of Technology",
+"Department": "",
+"State": "NJ",
+"Country": "United States",
+"Pincode": "07102"
+},
+"james bailey||the university of melbourne, grattan street, parkville, 3010, victoria, australia": {
+"Standardized_Author": "James Bailey",
+"University": "The University of Melbourne",
+"Department": "",
+"State": "Victoria",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"yongming guan||school of software, shandong university, shunhua road no. 1500, jinan, 250101, shandong, china": {
+"Standardized_Author": "Yongming Guan",
+"University": "Shandong University",
+"Department": "School of Software",
+"State": "Shandong",
+"Country": "China",
+"Pincode": "250101"
+},
+"chengdong zheng||liuzhou power supply bureau of guangxi power grid co. , ltd. , liuzhou, guangxi, china": {
+"Standardized_Author": "Chengdong Zheng",
+"University": "",
+"Department": "",
+"State": "Guangxi",
+"Country": "China",
+"Pincode": ""
+},
+"yuliang shi||school of software, shandong university, shunhua road no. 1500, jinan, 250101, shandong, china": {
+"Standardized_Author": "Yuliang Shi",
+"University": "Shandong University",
+"Department": "School of Software",
+"State": "Shandong",
+"Country": "China",
+"Pincode": "250101"
+},
+"gang wang||state grid chongqing electric power company marketing service center, chongqing, china": {
+"Standardized_Author": "Gang Wang",
+"University": "",
+"Department": "",
+"State": "",
+"Country": "China",
+"Pincode": ""
+},
+"linfeng wu||state grid chongqing electric power company marketing service center, chongqing, china": {
+"Standardized_Author": "Linfeng Wu",
+"University": "",
+"Department": "",
+"State": "",
+"Country": "China",
+"Pincode": ""
+},
+"zhiyong chen||school of software, shandong university, shunhua road no. 1500, jinan, 250101, shandong, china": {
+"Standardized_Author": "Zhiyong Chen",
+"University": "Shandong University",
+"Department": "School of Software",
+"State": "Shandong",
+"Country": "China",
+"Pincode": "250101"
+},
+"hui li||school of software, shandong university, shunhua road no. 1500, jinan, 250101, shandong, china": {
+"Standardized_Author": "Hui Li",
+"University": "Shandong University",
+"Department": "School of Software",
+"State": "Shandong",
+"Country": "China",
+"Pincode": "250101"
+},
+"riccardo lo bianco||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Riccardo Lo Bianco",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"willem van jaarsveld||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Willem Van Jaarsveld",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"jeroen middelhuis||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Jeroen Middelhuis",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"luca begnardi||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Luca Begnardi",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"remco dijkman||eindhoven university of technology, netherlands": {
+"Standardized_Author": "Remco Dijkman",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"timo eckmann||technical university of darmstadt, hochschulstraße 10, darmstadt, 64289, hesse, germany": {
+"Standardized_Author": "Timo Eckmann",
+"University": "Technical University of Darmstadt",
+"Department": "",
+"State": "Hesse",
+"Country": "Germany",
+"Pincode": "64289"
+},
+"matthias urban||technical university of darmstadt, hochschulstraße 10, darmstadt, 64289, hesse, germany": {
+"Standardized_Author": "Matthias Urban",
+"University": "Technical University of Darmstadt",
+"Department": "",
+"State": "Hesse",
+"Country": "Germany",
+"Pincode": "64289"
+},
+"janmicha bodensohn||technical university of darmstadt, hochschulstraße 10, darmstadt, 64289, hesse, germany": {
+"Standardized_Author": "Janmicha Bodensohn",
+"University": "Technical University of Darmstadt",
+"Department": "",
+"State": "Hesse",
+"Country": "Germany",
+"Pincode": "64289"
+},
+"carsten binnig||technical university of darmstadt, hochschulstraße 10, darmstadt, 64289, hesse, germany": {
+"Standardized_Author": "Carsten Binnig",
+"University": "Technical University of Darmstadt",
+"Department": "",
+"State": "Hesse",
+"Country": "Germany",
+"Pincode": "64289"
+},
+"geleta negasa binegde||school of computer science and technology beijing institute of technology, beijing, 100081, china": {
+"Standardized_Author": "Geleta Negasa Binegde",
+"University": "Beijing Institute of Technology",
+"Department": "School of Computer Science and Technology",
+"State": "",
+"Country": "China",
+"Pincode": "100081"
+},
+"huaping zhang||school of computer science and technology beijing institute of technology, beijing, 100081, china": {
+"Standardized_Author": "Huaping Zhang",
+"University": "Beijing Institute of Technology",
+"Department": "School of Computer Science and Technology",
+"State": "",
+"Country": "China",
+"Pincode": "100081"
+},
+"eugene wu||columbia university, united states of america": {
+"Standardized_Author": "Eugene Wu",
+"University": "Columbia University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"yiru chen||columbia university, united states of america": {
+"Standardized_Author": "Yiru Chen",
+"University": "Columbia University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"haneen mohammed||columbia university, united states of america": {
+"Standardized_Author": "Haneen Mohammed",
+"University": "Columbia University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"zezhou huang||columbia university, united states of america": {
+"Standardized_Author": "Zezhou Huang",
+"University": "Columbia University",
+"Department": "",
+"State": "",
+"Country": "United States",
+"Pincode": ""
+},
+"reza shafiloo||tampere university, finland": {
+"Standardized_Author": "Reza Shafiloo",
+"University": "Tampere University",
+"Department": "",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"maria stratigi||tampere university, finland": {
+"Standardized_Author": "Maria Stratigi",
+"University": "Tampere University",
+"Department": "",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"jaakko peltonen||tampere university, finland": {
+"Standardized_Author": "Jaakko Peltonen",
+"University": "Tampere University",
+"Department": "",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"thomas olsson||tampere university, finland": {
+"Standardized_Author": "Thomas Olsson",
+"University": "Tampere University",
+"Department": "",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"kostas stefanidis||tampere university, finland": {
+"Standardized_Author": "Kostas Stefanidis",
+"University": "Tampere University",
+"Department": "",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"diego arroyuelo||escuela de ingeniería, pontificia universidad católica de chile, av. vicuña mackenna, santiago, chile": {
+"Standardized_Author": "Diego Arroyuelo",
+"University": "Pontificia Universidad Católica de Chile",
+"Department": "",
+"State": "Santiago",
+"Country": "Chile",
+"Pincode": ""
+},
+"fabrizio barisione||universidad de chile, beauchef, santiago, chile": {
+"Standardized_Author": "Fabrizio Barisione",
+"University": "Universidad de Chile",
+"Department": "",
+"State": "Santiago",
+"Country": "Chile",
+"Pincode": ""
+},
+"antonio faria||universidade da coruña, spain": {
+"Standardized_Author": "Antonio Faria",
+"University": "Universidade da Coruña",
+"Department": "",
+"State": "",
+"Country": "Spain",
+"Pincode": ""
+},
+"adrin gmezbrandn||universidade da coruña, spain": {
+"Standardized_Author": "Adrin Gmezbrandn",
+"University": "Universidade da Coruña",
+"Department": "",
+"State": "",
+"Country": "Spain",
+"Pincode": ""
+},
+"gonzalo navarro||universidad de chile, beauchef, santiago, chile": {
+"Standardized_Author": "Gonzalo Navarro",
+"University": "Universidad de Chile",
+"Department": "",
+"State": "Beauchef",
+"Country": "Chile",
+"Pincode": ""
+},
+"hasan h rahman||department of computer science, university of idaho, moscow, id, 83844, united states": {
+"Standardized_Author": "Hasan H Rahman",
+"University": "University of Idaho",
+"Department": "Department of Computer Science",
+"State": "ID",
+"Country": "United States",
+"Pincode": "83844"
+},
+"hasan m jamil||department of computer science, university of idaho, moscow, id, 83844, united states": {
+"Standardized_Author": "Hasan M Jamil",
+"University": "University of Idaho",
+"Department": "Department of Computer Science",
+"State": "ID",
+"Country": "United States",
+"Pincode": "83844"
+},
+"simone agostinelli||mercatorum university of rome, piazza mattei 10, 00186, rome, italy": {
+"Standardized_Author": "Simone Agostinelli",
+"University": "Mercatorum University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00186"
+},
+"francesca de luzi||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Francesca De Luzi",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"alessia volpi||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Alessia Volpi",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"daniel schuster||fraunhofer institute for applied information technology fit, data science and artificial intelligence, schloss birlinghoven, sankt augustin, 53757, germany": {
+"Standardized_Author": "Daniel Schuster",
+"University": "Fraunhofer Institute for Applied Information Technology FIT",
+"Department": "Data Science and Artificial Intelligence",
+"State": "Sankt Augustin",
+"Country": "Germany",
+"Pincode": "53757"
+},
+"wolfgang aigner||st. pölten university of applied sciences, institute of creative \\ media/technologies, austria": {
+"Standardized_Author": "Wolfgang Aigner",
+"University": "St. Pölten University of Applied Sciences",
+"Department": "Institute of Creative Media/Technologies",
+"State": "",
+"Country": "Austria",
+"Pincode": ""
+},
+"chiara di francescomarino||disi – university of trento, italy": {
+"Standardized_Author": "Chiara Di Francescomarino",
+"University": "University of Trento",
+"Department": "DISI",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"cagatay turkay||university of warwick, centre for interdisciplinary methodologies, uk": {
+"Standardized_Author": "Cagatay Turkay",
+"University": "University of Warwick",
+"Department": "Centre for Interdisciplinary Methodologies",
+"State": "",
+"Country": "United Kingdom",
+"Pincode": ""
+},
+"francesca zerbato||eindhoven university of technology, process analytics, the netherlands": {
+"Standardized_Author": "Francesca Zerbato",
+"University": "Eindhoven University of Technology",
+"Department": "Process Analytics",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"michael e houle||new jersey institute of technology, university heights, newark, nj 07102, usa": {
+"Standardized_Author": "Michael E Houle",
+"University": "New Jersey Institute of Technology",
+"Department": "",
+"State": "New Jersey",
+"Country": "United States",
+"Pincode": "07102"
+},
+"vincent oria||new jersey institute of technology, university heights, newark, nj 07102, usa": {
+"Standardized_Author": "Vincent Oria",
+"University": "New Jersey Institute of Technology",
+"Department": "",
+"State": "New Jersey",
+"Country": "United States",
+"Pincode": "07102"
+},
+"hamideh sabaei||new jersey institute of technology, university heights, newark, nj 07102, usa": {
+"Standardized_Author": "Hamideh Sabaei",
+"University": "New Jersey Institute of Technology",
+"Department": "",
+"State": "New Jersey",
+"Country": "United States",
+"Pincode": "07102"
+},
+"massimiliano de leoni||department of mathematics, university of padova, italy": {
+"Standardized_Author": "Massimiliano De Leoni",
+"University": "University of Padova",
+"Department": "Department of Mathematics",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"wil mp van der aalst||rwth aachen university, aachen, germany": {
+"Standardized_Author": "Wil Mp Van Der Aalst",
+"University": "RWTH Aachen University",
+"Department": "",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"marcus dees||radboud university medical center (radboudumc), nijmegen, the netherlands": {
+"Standardized_Author": "Marcus Dees",
+"University": "Radboud University Medical Center",
+"Department": "",
+"State": "",
+"Country": "Netherlands",
+"Pincode": ""
+},
+"robert andrews||queensland university of technology, australia": {
+"Standardized_Author": "Robert Andrews",
+"University": "Queensland University of Technology",
+"Department": "",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"moe thandar wynn||queensland university of technology, australia": {
+"Standardized_Author": "Moe Thandar Wynn",
+"University": "Queensland University of Technology",
+"Department": "",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"andrei tour||university of melbourne, parkville, vic, 3010, australia": {
+"Standardized_Author": "Andrei Tour",
+"University": "University of Melbourne",
+"Department": "",
+"State": "VIC",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"artem polyvyanyy||university of melbourne, parkville, vic, 3010, australia": {
+"Standardized_Author": "Artem Polyvyanyy",
+"University": "University of Melbourne",
+"Department": "",
+"State": "VIC",
+"Country": "Australia",
+"Pincode": "3010"
+},
+"anna kalenkova||the university of adelaide, north terrace campus, adelaide, 5000, sa, australia": {
+"Standardized_Author": "Anna Kalenkova",
+"University": "The University of Adelaide",
+"Department": "",
+"State": "SA",
+"Country": "Australia",
+"Pincode": "5000"
+},
+"angelo casciani||sapienza university of rome, via ariosto 25, 00185 rome, italy": {
+"Standardized_Author": "Angelo Casciani",
+"University": "Sapienza University of Rome",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"mario luca bernardi||university of sannio, piazza roma 21, 82100, benevento, italy": {
+"Standardized_Author": "Mario Luca Bernardi",
+"University": "University of Sannio",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "82100"
+},
+"marta cimitile||unitelma sapienza, piazza sassari, 00185, rome, italy": {
+"Standardized_Author": "Marta Cimitile",
+"University": "Unitelma Sapienza",
+"Department": "",
+"State": "",
+"Country": "Italy",
+"Pincode": "00185"
+},
+"zebang liu||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Zebang Liu",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"anran yang||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Anran Yang",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"mengyu ma||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Mengyu Ma",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"luo chen||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Luo Chen",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"jiali zhou||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Jiali Zhou",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"ning jing||college of electronic science and technology, national university of defense technology, changsha, 410073, hunan, china": {
+"Standardized_Author": "Ning Jing",
+"University": "National University of Defense Technology",
+"Department": "College of Electronic Science and Technology",
+"State": "Hunan",
+"Country": "China",
+"Pincode": "410073"
+},
+"jichong yin||information engineering university, zhengzhou, china": {
+"Standardized_Author": "Jichong Yin",
+"University": "Information Engineering University",
+"Department": "",
+"State": "",
+"Country": "China",
+"Pincode": ""
+},
+"pranav kasela||university of milan-bicocca, milan, italy": {
+"Standardized_Author": "Pranav Kasela",
+"University": "University of Milan-Bicocca",
+"Department": "",
+"State": "Milan",
+"Country": "Italy",
+"Pincode": ""
+},
+"ral martnsantamara||universidad rey juan carlos, madrid, spain": {
+"Standardized_Author": "Ral Martnsantamara",
+"University": "Universidad Rey Juan Carlos",
+"Department": "",
+"State": "Madrid",
+"Country": "Spain",
+"Pincode": ""
+},
+"francesca zampino||datalab, dipartimento di ingegneria dell’innovazione, university of salento, via lecce-monteroni, lecce(le), 73100, italy": {
+"Standardized_Author": "Francesca Zampino",
+"University": "University of Salento",
+"Department": "Dipartimento di Ingegneria dell’Innovazione",
+"State": "Lecce",
+"Country": "Italy",
+"Pincode": "73100"
+},
+"maikel leon||department of business technology, miami herbert business school, university of miami, 5250 university drive, coral gables, fl, 33146, usa": {
+"Standardized_Author": "Maikel Leon",
+"University": "University of Miami",
+"Department": "Miami Herbert Business School",
+"State": "Florida",
+"Country": "United States",
+"Pincode": "33146"
+},
+"szoke markandor||politehnica university timisoara, faculty of electronics, telecommunications and information technologies, 300006 timisoara, romania": {
+"Standardized_Author": "Szoke Markandor",
+"University": "Politehnica University Timisoara",
+"Department": "Faculty of Electronics, Telecommunications and Information Technologies",
+"State": "",
+"Country": "Romania",
+"Pincode": "300006"
+},
+"jihane mali||de vinci higher education, de vinci research center, paris la défense, france": {
+"Standardized_Author": "Jihane Mali",
+"University": "De Vinci Higher Education",
+"Department": "De Vinci Research Center",
+"State": "",
+"Country": "France",
+"Pincode": ""
+},
+"shohreh ahvar||nokia networks, massy, france": {
+"Standardized_Author": "Shohreh Ahvar",
+"University": "",
+"Department": "",
+"State": "Massy",
+"Country": "France",
+"Pincode": ""
+},
+"faten atigui||conservatoire national des arts et métiers (cnam), france": {
+"Standardized_Author": "Faten Atigui",
+"University": "Conservatoire National des Arts et Métiers",
+"Department": "",
+"State": "",
+"Country": "France",
+"Pincode": ""
+},
+"ahmed azough||de vinci higher education, de vinci research center, paris la défense, france": {
+"Standardized_Author": "Ahmed Azough",
+"University": "De Vinci Higher Education",
+"Department": "",
+"State": "",
+"Country": "France",
+"Pincode": ""
+},
+"nicolas travers||de vinci higher education, de vinci research center, paris la défense, france": {
+"Standardized_Author": "Nicolas Travers",
+"University": "De Vinci Higher Education",
+"Department": "",
+"State": "",
+"Country": "France",
+"Pincode": ""
+},
+"khadijeh rahimkhani||department of software engineering, faculty of computer engineering, university of isfahan, isfahan, iran": {
+"Standardized_Author": "Khadijeh Rahimkhani",
+"University": "University of Isfahan",
+"Department": "Department of Software Engineering",
+"State": "Isfahan",
+"Country": "Iran",
+"Pincode": ""
+},
+"kamran zamanifar||department of software engineering, faculty of computer engineering, university of isfahan, isfahan, iran": {
+"Standardized_Author": "Kamran Zamanifar",
+"University": "University of Isfahan",
+"Department": "Department of Software Engineering",
+"State": "Isfahan",
+"Country": "Iran",
+"Pincode": ""
+},
+"yongqing li||school of software, xinjiang university, urumqi, xinjiang 830008, china": {
+"Standardized_Author": "Yongqing Li",
+"University": "Xinjiang University",
+"Department": "School of Software",
+"State": "XinJiang",
+"Country": "China",
+"Pincode": "830008"
+},
+"qimeng yang||school of software, xinjiang university, urumqi, xinjiang 830008, china": {
+"Standardized_Author": "Qimeng Yang",
+"University": "Xinjiang University",
+"Department": "School of Software",
+"State": "XinJiang",
+"Country": "China",
+"Pincode": "830008"
+},
+"long yu||school of software, xinjiang university, urumqi, xinjiang 830008, china": {
+"Standardized_Author": "Long Yu",
+"University": "Xinjiang University",
+"Department": "School of Software",
+"State": "XinJiang",
+"Country": "China",
+"Pincode": "830008"
+},
+"shengwei tian||school of software, xinjiang university, urumqi, xinjiang 830008, china": {
+"Standardized_Author": "Shengwei Tian",
+"University": "Xinjiang University",
+"Department": "School of Software",
+"State": "XinJiang",
+"Country": "China",
+"Pincode": "830008"
+},
+"xin fan||school of software, xinjiang university, urumqi, xinjiang 830008, china": {
+"Standardized_Author": "Xin Fan",
+"University": "Xinjiang University",
+"Department": "School of Software",
+"State": "XinJiang",
+"Country": "China",
+"Pincode": "830008"
+},
+"nesma m zaki||faculty of computers and artificial intelligence, cairo university, giza, egypt": {
+"Standardized_Author": "Nesma M Zaki",
+"University": "Cairo University",
+"Department": "Faculty of Computers and Artificial Intelligence",
+"State": "Giza",
+"Country": "Egypt",
+"Pincode": ""
+},
+"iman ma helal||faculty of computers and artificial intelligence, cairo university, giza, egypt": {
+"Standardized_Author": "Iman Ma Helal",
+"University": "Cairo University",
+"Department": "Faculty of Computers and Artificial Intelligence",
+"State": "Giza",
+"Country": "Egypt",
+"Pincode": ""
+},
+"ehab e hassanein||faculty of computers and artificial intelligence, cairo university, giza, egypt": {
+"Standardized_Author": "Ehab E Hassanein",
+"University": "Cairo University",
+"Department": "Faculty of Computers and Artificial Intelligence",
+"State": "Giza",
+"Country": "Egypt",
+"Pincode": ""
+},
+"ahmed awad||the british university in dubai, dubai, the united arab emirates": {
+"Standardized_Author": "Ahmed Awad",
+"University": "The British University in Dubai",
+"Department": "",
+"State": "Dubai",
+"Country": "United Arab Emirates",
+"Pincode": ""
+},
+"matteo francia||disi, university of bologna, italy": {
+"Standardized_Author": "Matteo Francia",
+"University": "University of Bologna",
+"Department": "DISI",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"stefano rizzi||disi, university of bologna, italy": {
+"Standardized_Author": "Stefano Rizzi",
+"University": "University of Bologna",
+"Department": "DISI",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"matteo golfarelli||disi, university of bologna, italy": {
+"Standardized_Author": "Matteo Golfarelli",
+"University": "University of Bologna",
+"Department": "DISI",
+"State": "",
+"Country": "Italy",
+"Pincode": ""
+},
+"patrick marcel||lifo, university of orléans, france": {
+"Standardized_Author": "Patrick Marcel",
+"University": "University of Orléans",
+"Department": "LIFO",
+"State": "",
+"Country": "France",
+"Pincode": ""
+},
+"martita muoz||university of concepción, edmundo larenas 219, concepción, chile": {
+"Standardized_Author": "Martita Muoz",
+"University": "University of Concepción",
+"Department": "",
+"State": "Concepción",
+"Country": "Chile",
+"Pincode": ""
+},
+"jos fuentesseplveda||university of concepción, edmundo larenas 219, concepción, chile": {
+"Standardized_Author": "Jos Fuentesseplveda",
+"University": "University of Concepción",
+"Department": "",
+"State": "Concepción",
+"Country": "Chile",
+"Pincode": ""
+},
+"cecilia hernndez||university of concepción, edmundo larenas 219, concepción, chile": {
+"Standardized_Author": "Cecilia Hernndez",
+"University": "University of Concepción",
+"Department": "",
+"State": "",
+"Country": "Chile",
+"Pincode": ""
+},
+"diego seco||citic, facultade de informática, universidade da coruña, spain": {
+"Standardized_Author": "Diego Seco",
+"University": "Universidade da Coruña",
+"Department": "Facultade de Informática",
+"State": "",
+"Country": "Spain",
+"Pincode": ""
+},
+"rik eshuis||school of industrial engineering, eindhoven university of technology, the netherlands": {
+"Standardized_Author": "Rik Eshuis",
+"University": "Eindhoven University of Technology",
+"Department": "School of Industrial Engineering",
+"State": "",
+"Country": "The Netherlands",
+"Pincode": ""
+},
+"aditya ghose||school of information systems and technology, university of wollongong, australia": {
+"Standardized_Author": "Aditya Ghose",
+"University": "University of Wollongong",
+"Department": "School of Information Systems and Technology",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"dominique sommers||eindhoven university of technology, the netherlands": {
+"Standardized_Author": "Dominique Sommers",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "The Netherlands",
+"Pincode": ""
+},
+"natalia sidorova||eindhoven university of technology, the netherlands": {
+"Standardized_Author": "Natalia Sidorova",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "The Netherlands",
+"Pincode": ""
+},
+"boudewijn van dongen||eindhoven university of technology, the netherlands": {
+"Standardized_Author": "Boudewijn Van Dongen",
+"University": "Eindhoven University of Technology",
+"Department": "",
+"State": "",
+"Country": "The Netherlands",
+"Pincode": ""
+},
+"georgios panagiotis kalfakis||school of electrical and computer engineering, technical university of crete, university campus, kounoupidiana, chania, gr-73100, greece": {
+"Standardized_Author": "Georgios Panagiotis Kalfakis",
+"University": "Technical University of Crete",
+"Department": "School of Electrical and Computer Engineering",
+"State": "Crete",
+"Country": "Greece",
+"Pincode": "73100"
+},
+"nikos giatrakos||school of electrical and computer engineering, technical university of crete, university campus, kounoupidiana, chania, gr-73100, greece": {
+"Standardized_Author": "Nikos Giatrakos",
+"University": "Technical University of Crete",
+"Department": "School of Electrical and Computer Engineering",
+"State": "Crete",
+"Country": "Greece",
+"Pincode": "73100"
+},
+"eliseo curcio||blend tiger, ny, usa": {
+"Standardized_Author": "Eliseo Curcio",
+"University": "",
+"Department": "",
+"State": "New York",
+"Country": "United States",
+"Pincode": ""
+},
+"marin fotache||department of business information systems, alexandru ioan cuza university of iasi, romania": {
+"Standardized_Author": "Marin Fotache",
+"University": "Alexandru Ioan Cuza University of Iasi",
+"Department": "Department of Business Information Systems",
+"State": "",
+"Country": "Romania",
+"Pincode": ""
+},
+"mariusiulian cluci||department of business information systems, alexandru ioan cuza university of iasi, romania": {
+"Standardized_Author": "Mariusiulian Cluci",
+"University": "Alexandru Ioan Cuza University of Iasi",
+"Department": "Department of Business Information Systems",
+"State": "",
+"Country": "Romania",
+"Pincode": ""
+},
+"toni taipalus||faculty of information technology and communication sciences, tampere university, finland": {
+"Standardized_Author": "Toni Taipalus",
+"University": "Tampere University",
+"Department": "Faculty of Information Technology and Communication Sciences",
+"State": "",
+"Country": "Finland",
+"Pincode": ""
+},
+"george talaba||department of business information systems, alexandru ioan cuza university of iasi, romania": {
+"Standardized_Author": "George Talaba",
+"University": "Alexandru Ioan Cuza University of Iasi",
+"Department": "Department of Business Information Systems",
+"State": "",
+"Country": "Romania",
+"Pincode": ""
+},
+"zhen jiang||school of computer science and communication engineering, jiangsu university, zhenjiang, china": {
+"Standardized_Author": "Zhen Jiang",
+"University": "JiangSu University",
+"Department": "School of Computer Science and Communication Engineering",
+"State": "ZhenJiang",
+"Country": "China",
+"Pincode": ""
+},
+"bolin niu||school of computer science and communication engineering, jiangsu university, zhenjiang, china": {
+"Standardized_Author": "Bolin Niu",
+"University": "JiangSu University",
+"Department": "School of Computer Science and Communication Engineering",
+"State": "ZhenJiang",
+"Country": "China",
+"Pincode": ""
+},
+"jinxin gua||school of computer science and communication engineering, jiangsu university, zhenjiang, china": {
+"Standardized_Author": "Jinxin Gua",
+"University": "JiangSu University",
+"Department": "School of Computer Science and Communication Engineering",
+"State": "ZhenJiang",
+"Country": "China",
+"Pincode": ""
+},
+"yuping xing||school of computer science and communication engineering, jiangsu university, zhenjiang, china": {
+"Standardized_Author": "Yuping Xing",
+"University": "JiangSu University",
+"Department": "School of Computer Science and Communication Engineering",
+"State": "ZhenJiang",
+"Country": "China",
+"Pincode": ""
+},
+"matteo zavatteri||university of padova, padova, italy": {
+"Standardized_Author": "Matteo Zavatteri",
+"University": "University of Padova",
+"Department": "",
+"State": "Padova",
+"Country": "Italy",
+"Pincode": ""
+},
+"massimiliano de leoni||university of padova, padova, italy": {
+"Standardized_Author": "Massimiliano De Leoni",
+"University": "University of Padova",
+"Department": "",
+"State": "Padova",
+"Country": "Italy",
+"Pincode": ""
+},
+"johann eder||university of klagenfurt, austria": {
+"Standardized_Author": "Johann Eder",
+"University": "University of Klagenfurt",
+"Department": "",
+"State": "",
+"Country": "Austria",
+"Pincode": ""
+},
+"manfred reichert||ulm university, germany": {
+"Standardized_Author": "Manfred Reichert",
+"University": "Ulm University",
+"Department": "",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"radek olejek||masaryk university, botanicka 68a, brno 602 00, czech republic": {
+"Standardized_Author": "Radek Olejek",
+"University": "Masaryk University",
+"Department": "",
+"State": "Brno",
+"Country": "Czech Republic",
+"Pincode": "602 00"
+},
+"radoslav chudovsk||masaryk university, botanicka 68a, brno 602 00, czech republic": {
+"Standardized_Author": "Radoslav Chudovsk",
+"University": "Masaryk University",
+"Department": "",
+"State": "Brno",
+"Country": "Czech Republic",
+"Pincode": "602 00"
+},
+"martin macak||masaryk university, botanicka 68a, brno 602 00, czech republic": {
+"Standardized_Author": "Martin Macak",
+"University": "Masaryk University",
+"Department": "",
+"State": "Brno",
+"Country": "Czech Republic",
+"Pincode": "602 00"
+},
+"janarebecca rehse||university of mannheim, l15, 1-6, 68161, mannheim, bw, germany": {
+"Standardized_Author": "Janarebecca Rehse",
+"University": "University of Mannheim",
+"Department": "",
+"State": "BW",
+"Country": "Germany",
+"Pincode": "68161"
+},
+"michael grohs||university of mannheim, l15, 1-6, 68161, mannheim, bw, germany": {
+"Standardized_Author": "Michael Grohs",
+"University": "University of Mannheim",
+"Department": "",
+"State": "BW",
+"Country": "Germany",
+"Pincode": "68161"
+},
+"finn klessascheck||technical university of munich, school of cit, bildungscampus 2, heilbronn, 74076, bw, germany": {
+"Standardized_Author": "Finn Klessascheck",
+"University": "Technical University of Munich",
+"Department": "School of CIT",
+"State": "BW",
+"Country": "Germany",
+"Pincode": "74076"
+},
+"lisamarie klein||university of mannheim, l15, 1-6, 68161, mannheim, bw, germany": {
+"Standardized_Author": "Lisamarie Klein",
+"University": "University of Mannheim",
+"Department": "",
+"State": "BW",
+"Country": "Germany",
+"Pincode": "68161"
+},
+"tatiana von landesberger||university of cologne, albertus-magnus-platz, cologne, 50923, nrw, germany": {
+"Standardized_Author": "Tatiana Von Landesberger",
+"University": "University of Cologne",
+"Department": "",
+"State": "NRW",
+"Country": "Germany",
+"Pincode": "50923"
+},
+"garance gourdel||di/ens, psl research university, 45 rue d’ulm, paris, 75005, france": {
+"Standardized_Author": "Garance Gourdel",
+"University": "PSL Research University",
+"Department": "DI/ENS",
+"State": "Île-de-France",
+"Country": "France",
+"Pincode": "75005"
+},
+"tatiana starikovskaya||di/ens, psl research university, 45 rue d’ulm, paris, 75005, france": {
+"Standardized_Author": "Tatiana Starikovskaya",
+"University": "PSL Research University",
+"Department": "DI/ENS",
+"State": "Île-de-France",
+"Country": "France",
+"Pincode": "75005"
+},
+"teresa anna steiner||university of southern denmark, campusvej 55, odense, 5230, southern denmark, denmark": {
+"Standardized_Author": "Teresa Anna Steiner",
+"University": "University of Southern Denmark",
+"Department": "",
+"State": "Southern Denmark",
+"Country": "Denmark",
+"Pincode": "5230"
+},
+"eric m osterkamp||münster, germany": {
+"Standardized_Author": "Eric M Osterkamp",
+"University": "",
+"Department": "",
+"State": "",
+"Country": "Germany",
+"Pincode": ""
+},
+"dominik kppl||university of yamanashi, faculty of engineering, kofu, japan": {
+"Standardized_Author": "Dominik Kppl",
+"University": "University of Yamanashi",
+"Department": "Faculty of Engineering",
+"State": "",
+"Country": "Japan",
+"Pincode": ""
+},
+"jianxin li||school of business and law, edith cowan university, australia": {
+"Standardized_Author": "Jianxin Li",
+"University": "Edith Cowan University",
+"Department": "School of Business and Law",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"taotao cai||school of mathematics, physics and computing, university of southern queensland, australia": {
+"Standardized_Author": "Taotao Cai",
+"University": "University of Southern Queensland",
+"Department": "School of Mathematics, Physics and Computing",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"ke deng||school of computing technologies, rmit, australia": {
+"Standardized_Author": "Ke Deng",
+"University": "RMIT",
+"Department": "School of Computing Technologies",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"timos sellis||archimedes ai, greece": {
+"Standardized_Author": "Timos Sellis",
+"University": "",
+"Department": "",
+"State": "",
+"Country": "Greece",
+"Pincode": ""
+},
+"feng xia||school of computing technologies, rmit, australia": {
+"Standardized_Author": "Feng Xia",
+"University": "RMIT",
+"Department": "School of Computing Technologies",
+"State": "",
+"Country": "Australia",
+"Pincode": ""
+},
+"maude manouvrier||université paris-dauphine, psl research university cnrs umr [7243] lamsade, place du mar. de lattre de tassigny, paris cedex 16, 75775, france": {
+"Standardized_Author": "Maude Manouvrier",
+"University": "Université Paris-Dauphine",
+"Department": "PSL Research University CNRS UMR [7243] LAMSADE",
+"State": "Paris",
+"Country": "France",
+"Pincode": "75775"
+},
+"khalid belhajjame||université paris-dauphine, psl research university cnrs umr [7243] lamsade, place du mar. de lattre de tassigny, paris cedex 16, 75775, france": {
+"Standardized_Author": "Khalid Belhajjame",
+"University": "Université Paris-Dauphine",
+"Department": "PSL Research University CNRS UMR [7243] LAMSADE",
+"State": "Paris",
+"Country": "France",
+"Pincode": "75775"
+},
+"alexander stahl||brandenburg university of technology, konrad-wachsmann-allee 5, cottbus, 03046, germany": {
+"Standardized_Author": "Alexander Stahl",
+"University": "Brandenburg University of Technology",
+"Department": "",
+"State": "Cottbus",
+"Country": "Germany",
+"Pincode": "03046"
+},
+"ingo schmitt||brandenburg university of technology, konrad-wachsmann-allee 5, cottbus, 03046, germany": {
+"Standardized_Author": "Ingo Schmitt",
+"University": "Brandenburg University of Technology",
+"Department": "",
+"State": "Cottbus",
+"Country": "Germany",
+"Pincode": "03046"
+},
+"bachir asri||l2is laboratory, faculty of science and technology, cadi ayyad university, marrakesh, morocco": {
+"Standardized_Author": "Bachir Asri",
+"University": "Cadi Ayyad University",
+"Department": "L2IS Laboratory, Faculty of Science and Technology",
+"State": "Marrakesh",
+"Country": "Morocco",
+"Pincode": ""
+},
+"sara qassimi||l2is laboratory, faculty of science and technology, cadi ayyad university, marrakesh, morocco": {
+"Standardized_Author": "Sara Qassimi",
+"University": "Cadi Ayyad University",
+"Department": "L2IS Laboratory, Faculty of Science and Technology",
+"State": "Marrakesh",
+"Country": "Morocco",
+"Pincode": ""
+},
+"said rakrak||l2is laboratory, faculty of science and technology, cadi ayyad university, marrakesh, morocco": {
+"Standardized_Author": "Said Rakrak",
+"University": "Cadi Ayyad University",
+"Department": "L2IS Laboratory, Faculty of Science and Technology",
+"State": "Marrakesh",
+"Country": "Morocco",
+"Pincode": ""
+},
+"zhaolong zheng||school of software, dalian university of technology, china": {
+"Standardized_Author": "Zhaolong Zheng",
+"University": "Dalian University of Technology",
+"Department": "School of Software",
+"State": "",
+"Country": "China",
+"Pincode": ""
+},
+"tian wei||suyin kgi consumer finance co. , ltd. , china": {
+"Standardized_Author": "Tian Wei",
+"University": "",
+"Department": "",
+"State": "",
+"Country": "China",
+"Pincode": ""
+},
+"yunong tian||school of computer science and technology, beijing jiaotong university, beijing, 100044, china": {
+"Standardized_Author": "Yunong Tian",
+"University": "Beijing Jiaotong University",
+"Department": "School of Computer Science and Technology",
+"State": "Beijing",
+"Country": "China",
+"Pincode": "100044"
+}
+}
